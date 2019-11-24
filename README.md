@@ -71,8 +71,6 @@ A common metric for semantic segmentation problems which captures both precision
 ### Selected Samples
 A number of illustrative samples are shown below. 
 
-**Selected Samples** 
-
 | RGB  | DeePresUNet | SegNet | U-Net | ResUNet | Ground Truth | 
 | ---- | ----   | ----  | ----    | ------------| -------------|
 | ![at][22_rgb] | ![at][22_dru] | ![at][22_seg] | ![at][22_unet] | ![at][22_runet] | ![at][22_truth] |
